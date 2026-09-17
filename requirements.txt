@@ -1,5 +1,5 @@
-streamlit
-tensorflow
-numpy
-pandas
-h5py
+streamlit==1.64.0
+tensorflow==2.21.0
+numpy==2.5.3
+pandas==3.0.5
+h5py==3.14.0
